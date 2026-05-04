@@ -57,3 +57,4 @@ pip install customtkinter requests
 ---
 
 ## Ссылка на репозиторий
+https://github.com/midori09/Anelya.git
