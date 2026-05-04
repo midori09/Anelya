@@ -40,11 +40,11 @@ pip install customtkinter requests
    ```
 2. Перейдите в папку проекта:
    ```bash
-   cd currency-converter
+   cd midori09
    ```
 3. Запустите приложение:
    ```bash
-   python main.py
+   python Anelya.git
    ```
 
 ---
