@@ -36,7 +36,7 @@ pip install customtkinter requests
 ## Как запустить
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/IndiCyn/Currency_Converter.git
+   git https://github.com/midori09/Anelya.git
    ```
 2. Перейдите в папку проекта:
    ```bash
